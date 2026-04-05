@@ -4,7 +4,7 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/aqobojetelon11-sudo?label=Follow&style=social)](https://github.com/aqobojetelon11-sudo)
+[![GitHub followers](https://img.shields.io/github/followers/nullptrflow?label=Follow&style=social)](https://github.com/nullptrflow)
 [![Profile Views](https://komarev.com/ghpvc/?username=aqobojetelon11-sudo&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/aqobojetelon11-sudo)
 
 </div>
