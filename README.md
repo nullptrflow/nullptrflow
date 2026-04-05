@@ -41,8 +41,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aqobojetelon11-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqobojetelon11-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="165" alt="Top Languages"/>
+`` <img src="https://github-readme-stats.vercel.app/api?username=aqobojetelon11-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqobojetelon11-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="165" alt="Top Languages"/> ``
 
 </div>
 
