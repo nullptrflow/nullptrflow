@@ -1,4 +1,4 @@
-# Hi there, I am Rizky!# Hi there, I am Gita Kusuma!
+# Hi there, I am Gita Kusuma!
 
 ### About Me
 Full-stack Developer | Passionate about AI and Security | Building open-source tools.
