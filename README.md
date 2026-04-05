@@ -1,19 +1,75 @@
-# Hi there, I'm Gita Kusuma
+<div align="center">
 
-I am a student at **Universitas Telogorejo Semarang**.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Gita+Kusuma;Full-stack+Developer;Cyber+Security+Enthusiast;C%2B%2B+%7C+Python+%7C+JavaScript" alt="Typing SVG" /></a>
 
-> Full-stack Developer | Cyber Security Enthusiast | Building high-performance tools in C++ and Python.
+<br/>
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqobojetelon11-sudo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqobojetelon11-sudo&layout=compact&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/aqobojetelon11-sudo?label=Follow&style=social)](https://github.com/aqobojetelon11-sudo)
+[![Profile Views](https://komarev.com/ghpvc/?username=aqobojetelon11-sudo&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/aqobojetelon11-sudo)
+
+</div>
+
+---
+
+### About Me
+
+- Student at **Universitas Telogorejo Semarang**
+- Full-stack Developer | Cyber Security Enthusiast
+- Building high-performance tools in C++ and Python
+- Always learning, always building
+
+---
 
 ### Tech Stack
-- **Languages:** C++, C, Python, JavaScript
-- **Tools:** Git, Docker, GitHub Actions
-  ### Activity
-  ![Snake Animation](https://raw.githubusercontent.com/aqobojetelon11-sudo/aqobojetelon11-sudo/output/github-contribution-grid-snake.svg)
 
-  ### Connect with me
-  [GitHub Profile](https://github.com/aqobojetelon11-sudo)
-  
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aqobojetelon11-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqobojetelon11-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="165" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aqobojetelon11-sudo&theme=radical&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqobojetelon11-sudo/aqobojetelon11-sudo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqobojetelon11-sudo/aqobojetelon11-sudo/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aqobojetelon11-sudo/aqobojetelon11-sudo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+</div>
