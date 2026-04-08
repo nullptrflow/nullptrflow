@@ -1,17 +1,24 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Gita+Kusuma+%F0%9F%91%8B;Full-stack+Developer;Cyber+Security+Enthusiast;C%2B%2B+%7C+Python+%7C+PowerShell+%7C+C;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=nullptrflow&fontSize=64&fontAlignY=40&desc=Full-stack%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=62&color=0:1a0000,40:5a0000,100:ff0033&fontColor=ffffff&descColor=ffb3c1" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/nullptrflow?label=Follow&style=social)](https://github.com/nullptrflow)
-[![Profile Views](https://komarev.com/ghpvc/?username=nullptrflow&color=00f7ff&style=flat-square&label=Profile+Views)](https://github.com/nullptrflow)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2400&pause=900&color=FF3B5C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Gita+Kusuma+%F0%9F%91%8B;Building+fast+and+secure+software;C%2B%2B+%7C+Python+%7C+TypeScript+%7C+PowerShell;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Followers](https://img.shields.io/github/followers/nullptrflow?style=for-the-badge&color=ff244d&labelColor=2b0b11&label=Followers)](https://github.com/nullptrflow?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=nullptrflow&style=for-the-badge&color=ff244d&label=Profile+Views)](https://github.com/nullptrflow)
+[![Stars](https://img.shields.io/github/stars/nullptrflow?style=for-the-badge&color=ff244d&labelColor=2b0b11&label=Total+Stars)](https://github.com/nullptrflow?tab=repositories)
 
 </div>
 
 ---
 
-### 👤 About Me
+## 👤 About Me
 
 ```yaml
 name       : Gita Kusuma
@@ -24,58 +31,56 @@ motto      : "Always learning, always building"
 
 ---
 
-### 🛠️ Tech Stack
+## 🔥 Tech Stack
 
-#### 💻 Languages
-
+### 💻 Languages
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-B3002D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A0002A?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-7A001F?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9C0A2E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-C0003C?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-5A0017?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-A10023?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-B00030?style=for-the-badge&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-73001D?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 </div>
 
-#### ⚙️ Tools & Platforms
-
+### ⚙️ Tools & Platforms
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B3002D?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8D001E?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6F0018?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-A0002A?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-C2003D?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nullptrflow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nullptrflow&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3b5c&icon_color=ff3b5c&text_color=f4d6dc&border_radius=12" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullptrflow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullptrflow&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3b5c&text_color=f4d6dc&border_radius=12" height="170" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nullptrflow&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nullptrflow&hide_border=true&background=0d1117&stroke=8a1d32&ring=ff3b5c&fire=ff2247&currStreakLabel=ff9caf&sideLabels=f4d6dc&dates=ba8090)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -91,7 +96,7 @@ motto      : "Always learning, always building"
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"Code is like humor. When you have to explain it, it's bad."*  
 **— Cory House**
 
 </div>
