@@ -96,12 +96,6 @@ motto      : "Always learning, always building"
 
 <div align="center">
 
-### ❤️ Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-nullptrflow-8a001f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nullptrflow)
-
-<br/>
-
 *"Code is like humor. When you have to explain it, it's bad."*  
 **— Cory House**
 
