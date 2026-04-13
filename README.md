@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![Followers](https://img.shields.io/github/followers/nullptrflow?style=for-the-badge&color=ff244d&labelColor=2b0b11&label=Followers)](https://github.com/nullptrflow?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=nullptrflow&style=for-the-badge&color=ff244d&label=Profile+Views)](https://github.com/nullptrflow)
+[![Profile Views](https://count.getloli.com/get/@:nullptrflow)](https://github.com/nullptrflow)
 [![Stars](https://img.shields.io/github/stars/nullptrflow?style=for-the-badge&color=ff244d&labelColor=2b0b11&label=Total+Stars)](https://github.com/nullptrflow?tab=repositories)
 
 </div>
